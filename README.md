@@ -1,9 +1,9 @@
 ![Cabeçalho](https://github.com/brumattioli/brumattioli/assets/69537573/8881a805-db99-449c-a317-653620f34ffb)
 
-# Olá, me chamo Bruna ! 
+## Olá, sou a Bruna! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-**Sobre mim**
+###Sobre mim
 
 Sou economista em transição de carreira para análise de dados.
 Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
