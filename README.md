@@ -7,12 +7,15 @@
   Sou da cidade de Atibaia, economista, em transição de carreira para análise de dados.
 Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
 
+
 **Algumas das minhas formações:**
 - Graduação em economia pela UNIFESP - Concluída
 - Especialização em Ciência de Dados pela UTFPR - Concluída
 - Formação em Tecnologias da Microsoft pela UNICAMP - Em andamento
 
+
 Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.linkedin.com/in/bruna-mattioli/](https://www.linkedin.com/in/bruna-mattioli/)
+
 
 ⚡ **Curiosidades:**
 Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
