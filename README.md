@@ -49,7 +49,9 @@ Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e c
  
 - **Github**
   - [Quadro Kanban](https://github.com/users/brumattioli/projects/3/views/1)
+
     Descrição:
+    
     Criação de um quadro kanban para organizar o time de desenvolvimento na criação de um sistema de gerenciamento de campanhas de doação de sangue e relacionamento com os doadores. Foi realizada priorização do product backlog, o refinamento das histórias e a escolha das histórias que entrariam na primeira sprint.
 
 <h3 align="left">Se conecte comigo:</h3>
