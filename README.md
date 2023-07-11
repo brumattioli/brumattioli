@@ -20,9 +20,9 @@ Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto
 Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.linkedin.com/in/bruna-mattioli/](https://www.linkedin.com/in/bruna-mattioli/)
 
 
- ### ⚡ Curiosidades:
+ ### 😄 Curiosidades:
 
-Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
+⚡ Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
 
 🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli/portifolio).
 
