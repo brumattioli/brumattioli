@@ -3,6 +3,7 @@
 **Seja bem vindo (a)!**
 
 **Sobre mim**
+
   Sou da cidade de Atibaia, economista, em transição de carreira para análise de dados.
 Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
 
