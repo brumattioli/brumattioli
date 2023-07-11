@@ -3,7 +3,7 @@
 ## Olá, sou a Bruna! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-###Sobre mim
+### Sobre mim
 
 Sou economista em transição de carreira para análise de dados.
 Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
@@ -11,7 +11,7 @@ Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto
 ![date-everywhere-data](https://github.com/brumattioli/brumattioli/assets/69537573/5b944219-cfba-415c-9638-c42783728b59)
 
 
-**Algumas das minhas formações:**
+### Algumas das minhas formações:
 - Graduação em economia pela UNIFESP - Concluída
 - Especialização em Ciência de Dados pela UTFPR - Concluída
 - Formação em Tecnologias da Microsoft pela UNICAMP - Em andamento
@@ -20,7 +20,7 @@ Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto
 Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.linkedin.com/in/bruna-mattioli/](https://www.linkedin.com/in/bruna-mattioli/)
 
 
-⚡ **Curiosidades:**
+ ### ⚡ Curiosidades:
 
 Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
 
@@ -32,7 +32,7 @@ Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e c
 
 📫 Para falar comigo, mande um email para **bru.mattioli@gmail.com**.
 
-#Repositórios:
+## Repositórios:
 
 - **Python**
   - 
