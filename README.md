@@ -1,12 +1,14 @@
 ![Cabeçalho](https://github.com/brumattioli/brumattioli/assets/69537573/8881a805-db99-449c-a317-653620f34ffb)
 
-**Seja bem vindo (a)!** 👋
+# Olá, me chamo Bruna ! 
+## Bem vindo ao meu perfil GitHub 👋
 
 **Sobre mim**
 
 Sou economista em transição de carreira para análise de dados.
 Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
 
+https://tenor.com/pt-BR/view/date-everywhere-data-digital-marketing-gif-24166770
 
 **Algumas das minhas formações:**
 - Graduação em economia pela UNIFESP - Concluída
@@ -29,7 +31,7 @@ Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e c
 
 📫 Para falar comigo, mande um email para **bru.mattioli@gmail.com**.
 
-**Repositórios:**
+#Repositórios:
 
 - **Python**
   - 
