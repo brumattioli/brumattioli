@@ -4,7 +4,7 @@
 
 **Sobre mim**
 
-  Sou da cidade de Atibaia, economista, em transição de carreira para análise de dados.
+Sou economista em transição de carreira para análise de dados.
 Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
 
 
@@ -18,6 +18,7 @@ Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.li
 
 
 ⚡ **Curiosidades:**
+
 Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
 
 🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli/portifolio).
