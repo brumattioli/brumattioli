@@ -1,6 +1,6 @@
 ![Cabeçalho](https://github.com/brumattioli/brumattioli/assets/69537573/8881a805-db99-449c-a317-653620f34ffb)
 
-**Seja bem vindo (a)!**
+**Seja bem vindo (a)!** 👋
 
 **Sobre mim**
 
@@ -28,7 +28,7 @@ Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e c
 
 📫 Para falar comigo, mande um email para **bru.mattioli@gmail.com**.
 
-Repositórios:
+**Repositórios:**
 
 - **Python**
   - 
@@ -47,7 +47,9 @@ Repositórios:
   - [Exercícios da disciplina de C# avançado.]
  
 - **Github**
-  - [Criação de um quadro kanban para organizar o time de desenvolvimento na criação de um sistema de gerenciamento de campanhas de doação de sangue e relacionamento com os doadores.](https://github.com/users/brumattioli/projects/3/views/1)
+  - [Quadro Kanban](https://github.com/users/brumattioli/projects/3/views/1)
+    Descrição:
+    Criação de um quadro kanban para organizar o time de desenvolvimento na criação de um sistema de gerenciamento de campanhas de doação de sangue e relacionamento com os doadores. Foi realizada priorização do product backlog, o refinamento das histórias e a escolha das histórias que entrariam na primeira sprint.
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
