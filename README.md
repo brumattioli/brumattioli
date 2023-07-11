@@ -20,13 +20,13 @@ Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.li
 ⚡ **Curiosidades:**
 Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
 
-- 🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli/portifolio).
+🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli/portifolio).
 
-- 🌱 Atualmente estou me aperfeiçoando em **Python, SQL, R, Power BI**.
+🌱 Atualmente estou me aperfeiçoando em **Python, SQL, R, Power BI**.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/brumattioli/portifolio](https://github.com/brumattioli/portifolio).
+👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/brumattioli/portifolio](https://github.com/brumattioli/portifolio).
 
-- 📫 Para falar comigo, mande um email para **bru.mattioli@gmail.com**.
+📫 Para falar comigo, mande um email para **bru.mattioli@gmail.com**.
 
 Repositórios:
 
