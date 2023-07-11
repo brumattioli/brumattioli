@@ -1,20 +1,28 @@
 ![Cabeçalho](https://github.com/brumattioli/brumattioli/assets/69537573/8881a805-db99-449c-a317-653620f34ffb)
 
-Seja bem vindo (a)!
+**Seja bem vindo (a)!**
 
-Sobre mim
+**Sobre mim**
 Sou da cidade de Atibaia, economista, em transição de carreira para análise de dados.
 Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
 
-Algumas das minhas formações:
+**Algumas das minhas formações:**
 - Graduação em economia pela UNIFESP - Concluída
 - Especialização em Ciência de Dados pela UTFPR - Concluída
 - Formação em Tecnologias da Microsoft pela UNICAMP - Em andamento
 
 Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.linkedin.com/in/bruna-mattioli/](https://www.linkedin.com/in/bruna-mattioli/)
 
-Curiosidades:
-⚡ Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
+⚡ **Curiosidades:**
+Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
+
+- 🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli/portifolio).
+
+- 🌱 Atualmente estou me aperfeiçoando em **Python, SQL, R, Power BI**.
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/brumattioli/portifolio](https://github.com/brumattioli/portifolio).
+
+- 📫 Para falar comigo, mande um email para **bru.mattioli@gmail.com**.
 
 Repositórios:
 
@@ -36,15 +44,6 @@ Repositórios:
  
 - **Github**
   - [Criação de um quadro kanban para organizar o time de desenvolvimento na criação de um sistema de gerenciamento de campanhas de doação de sangue e relacionamento com os doadores.](https://github.com/users/brumattioli/projects/3/views/1)
-
-
-- 🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli/portifolio).
-
-- 🌱 Atualmente estou me aperfeiçoando em **Python, SQL, R, Power BI**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/brumattioli/portifolio](https://github.com/brumattioli/portifolio).
-
-- 📫 Para falar comigo, mande um email para **bru.mattioli@gmail.com**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
