@@ -8,7 +8,8 @@
 Sou economista em transição de carreira para análise de dados.
 Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
 
-https://tenor.com/pt-BR/view/date-everywhere-data-digital-marketing-gif-24166770
+![date-everywhere-data](https://github.com/brumattioli/brumattioli/assets/69537573/5b944219-cfba-415c-9638-c42783728b59)
+
 
 **Algumas das minhas formações:**
 - Graduação em economia pela UNIFESP - Concluída
