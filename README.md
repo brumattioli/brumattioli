@@ -1,22 +1,57 @@
-<h1 align="center">Hi 👋, I'm Bruna Mattioli</h1>
-<h3 align="center">A passionate data analyst from Brasil</h3>
+![Cabeçalho](https://github.com/brumattioli/brumattioli/assets/69537573/8881a805-db99-449c-a317-653620f34ffb)
 
-- 🔭 I’m currently working on [creating my portifolio](https://github.com/brumattioli/portifolio)
+Seja bem vindo (a)!
 
-- 🌱 I’m currently learning **Python, SQL**
+Sobre mim
+Sou da cidade de Atibaia, economista, em transição de carreira para análise de dados.
+Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
 
-- 👨‍💻 All of my projects are available at [https://github.com/brumattioli/portifolio](https://github.com/brumattioli/portifolio)
+Algumas das minhas formações:
+- Graduação em economia pela UNIFESP - Concluída
+- Especialização em Ciência de Dados pela UTFPR - Concluída
+- Formação em Tecnologias da Microsoft pela UNICAMP - Em andamento
 
-- 📫 How to reach me **bru.mattioli@gmail.com**
+Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.linkedin.com/in/bruna-mattioli/](https://www.linkedin.com/in/bruna-mattioli/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bruna-mattioli/](https://www.linkedin.com/in/bruna-mattioli/)
+Curiosidades:
+⚡ Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
 
-<h3 align="left">Connect with me:</h3>
+Repositórios:
+
+- **Python**
+  - 
+
+- **R**
+  -
+
+- **SQL**
+  - 
+
+- **Visualização de dados**
+  - [Power BI](https://github.com/brumattioli/portifolio)
+
+- **C#**
+  - [Jewel Collector](https://github.com/brumattioli/Coletor_Joias)
+  - [Exercícios da disciplina de C# avançado.]
+ 
+- **Github**
+  - [Criação de um quadro kanban para organizar o time de desenvolvimento na criação de um sistema de gerenciamento de campanhas de doação de sangue e relacionamento com os doadores.](https://github.com/users/brumattioli/projects/3/views/1)
+
+
+- 🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli/portifolio).
+
+- 🌱 Atualmente estou me aperfeiçoando em **Python, SQL, R, Power BI**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/brumattioli/portifolio](https://github.com/brumattioli/portifolio).
+
+- 📫 Para falar comigo, mande um email para **bru.mattioli@gmail.com**
+
+<h3 align="left">Se conecte comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bruna-mattioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruna-mattioli" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 
