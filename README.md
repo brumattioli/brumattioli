@@ -24,27 +24,25 @@ Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.li
 
 ⚡ Estou me apaixonando pela vida fitness de academia, gosto de jogar videogame e cuidar da minha horta.
 
-🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli/portifolio).
+🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli?tab=repositories).
 
 🌱 Atualmente estou me aperfeiçoando em **Python, SQL, R, Power BI**.
 
-👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/brumattioli/portifolio](https://github.com/brumattioli/portifolio).
+👨‍💻 Todos os meus projetos estão disponíveis em [portifolio](https://github.com/brumattioli?tab=repositories).
 
 📫 Para falar comigo, mande um email para **bru.mattioli@gmail.com**.
 
 ## Repositórios:
 
-- **Python**
-  - 
+- **Python e SQL**
+  - [Análise dos casos da COVID-19 em 5 cidades brasileiras.](https://github.com/brumattioli/Analise_Covid-19)
+  - [Análise de dados de empresa financeira que faz contratos de financiamentos de veículos de luxo a partir da criação de um data warehouse.](https://github.com/brumattioli/Analise_Veiculos)
 
-- **R**
-  -
-
-- **SQL**
-  - 
+- **R e SQL**
+  - [Análise das carteiras semanais recomendadas de ações.](https://github.com/brumattioli/Analise_Carteira_Acoes)
 
 - **Visualização de dados**
-  - [Power BI](https://github.com/brumattioli/portifolio)
+  - <!--[Power BI](https://github.com/brumattioli/portifolio)-->
 
 - **C#**
   - [Jewel Collector](https://github.com/brumattioli/Coletor_Joias)
