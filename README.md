@@ -6,7 +6,7 @@
 ### Sobre mim
 
 Sou economista em transição de carreira para análise de dados.
-Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que está área tem a oferecer.
+Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que esta área tem a oferecer.
 
 ![date-everywhere-data](https://github.com/brumattioli/brumattioli/assets/69537573/5b944219-cfba-415c-9638-c42783728b59)
 
@@ -43,11 +43,11 @@ Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.li
   - [Análise das carteiras semanais recomendadas de ações.](https://github.com/brumattioli/Analise_Carteira_Acoes)
 
 - **Visualização de dados**
-  - <!--[Power BI](https://github.com/brumattioli/portifolio)-->
+  <!--[Power BI](https://github.com/brumattioli/portifolio)-->
 
 - **C#**
   - [Jewel Collector](https://github.com/brumattioli/Coletor_Joias)
-  - <!--[Exercícios da lista 1 de C# avançado.]
+  <!--[Exercícios da lista 1 de C# avançado.]
   - [Exercícios da lista 2 de C# avançado.]-->
  
 - **Github**
