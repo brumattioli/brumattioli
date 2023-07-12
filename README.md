@@ -26,7 +26,7 @@ Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.li
 
 🔭 Atualmente estou trabalhando em [criar meu portifólio](https://github.com/brumattioli?tab=repositories).
 
-🌱 Atualmente estou me aperfeiçoando em **Python, SQL, R, Power BI**.
+🌱 Atualmente estou me aperfeiçoando em **Python, SQL, R, Power BI e C#**.
 
 👨‍💻 Todos os meus projetos estão disponíveis em [portifolio](https://github.com/brumattioli?tab=repositories).
 
