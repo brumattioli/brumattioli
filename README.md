@@ -37,6 +37,7 @@ Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.li
 - **Python e SQL**
   - [Análise dos casos da COVID-19 em 5 cidades brasileiras.](https://github.com/brumattioli/Analise_Covid-19)
   - [Análise de dados de empresa financeira que faz contratos de financiamentos de veículos de luxo a partir da criação de um data warehouse.](https://github.com/brumattioli/Analise_Veiculos)
+  - [Análise da evolução do desmatamento nos Estados e Munícipios da Amazônia Legal no período de 2000 até 2020.](https://github.com/brumattioli/Analise_Desmatamento)
 
 - **R e SQL**
   - [Análise das carteiras semanais recomendadas de ações.](https://github.com/brumattioli/Analise_Carteira_Acoes)
@@ -46,7 +47,8 @@ Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.li
 
 - **C#**
   - [Jewel Collector](https://github.com/brumattioli/Coletor_Joias)
-  - [Exercícios da disciplina de C# avançado.]
+  - <!--[Exercícios da lista 1 de C# avançado.]
+  - [Exercícios da lista 2 de C# avançado.]-->
  
 - **Github**
   - [Quadro Kanban](https://github.com/users/brumattioli/projects/3/views/1)
