@@ -34,6 +34,9 @@ Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.li
 
 ## Repositórios:
 
+- **Python**
+  - [Análise do ranking de empregabilidade de cursos de instituições de ensino](https://github.com/brumattioli/Case_Empregabilidade)
+
 - **Python e SQL**
   - [Análise dos casos da COVID-19 em 5 cidades brasileiras.](https://github.com/brumattioli/Analise_Covid-19)
   - [Análise de dados de empresa financeira que faz contratos de financiamentos de veículos de luxo a partir da criação de um data warehouse.](https://github.com/brumattioli/Analise_Veiculos)
@@ -43,7 +46,7 @@ Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.li
   - [Análise das carteiras semanais recomendadas de ações.](https://github.com/brumattioli/Analise_Carteira_Acoes)
 
 - **Visualização de dados**
-  <!--[Power BI](https://github.com/brumattioli/portifolio)-->
+  <!--[Power BI]()-->
 
 - **C#**
   - [Jewel Collector](https://github.com/brumattioli/Coletor_Joias)
