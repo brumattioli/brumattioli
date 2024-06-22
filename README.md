@@ -5,8 +5,9 @@
 
 ### Sobre mim
 
-Sou economista em transição de carreira para análise de dados.
+Sou economista com pós graduação em análise de dados.
 Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto em ver todas as possibilidades que esta área tem a oferecer.
+Hoje atuo como Analista de Dados no Banco da John Deere.
 
 ![date-everywhere-data](https://github.com/brumattioli/brumattioli/assets/69537573/5b944219-cfba-415c-9638-c42783728b59)
 
@@ -14,7 +15,7 @@ Iniciei meus estudos na área de Ciência de Dados em 2021 e cada dia me encanto
 ### Algumas das minhas formações:
 - Graduação em economia pela UNIFESP - Concluída
 - Especialização em Ciência de Dados pela UTFPR - Concluída
-- Formação em Tecnologias da Microsoft pela UNICAMP - Em andamento
+- Formação em Tecnologias da Microsoft pela UNICAMP - Concluída
 
 
 Para saber mais sobre minhas experiências, acesse meu linkedin: [https://www.linkedin.com/in/bruna-mattioli/](https://www.linkedin.com/in/bruna-mattioli/)
